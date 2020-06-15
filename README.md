@@ -1,6 +1,6 @@
 # StartNewWorld
 <head>
- <title awe></title>
+ trying this head
 </head>
 
 <body>
