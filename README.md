@@ -4,5 +4,5 @@ My first GitHub Website
  awe shoe what u up to
  
  
-<a href="second.html">link text</a>
+<a href="Second.html">link text</a>
 
